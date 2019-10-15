@@ -11,7 +11,7 @@ namespace abstrakteKlassen
                 ID = 101,
                 FirstName = "Rick",
                 LastName = "Wenz",
-                AnnualSalary = 60000
+                AnnualSalary = 600
             };
 
             Console.WriteLine(fte.GetFullName());
@@ -24,7 +24,7 @@ namespace abstrakteKlassen
                 ID = 102,
                 FirstName = "Alex",
                 LastName = "Koppel",
-                HourlyPay = 100,
+                HourlyPay = 150,
                 TotalHoursWorked = 40
             };
 
