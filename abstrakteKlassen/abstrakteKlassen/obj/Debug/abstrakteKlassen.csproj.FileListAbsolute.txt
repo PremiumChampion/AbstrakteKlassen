@@ -1,0 +1,6 @@
+C:\Users\rwe\source\repos\abstrakteKlassen\abstrakteKlassen\bin\Debug\abstrakteKlassen.exe.config
+C:\Users\rwe\source\repos\abstrakteKlassen\abstrakteKlassen\bin\Debug\abstrakteKlassen.exe
+C:\Users\rwe\source\repos\abstrakteKlassen\abstrakteKlassen\bin\Debug\abstrakteKlassen.pdb
+C:\Users\rwe\source\repos\abstrakteKlassen\abstrakteKlassen\obj\Debug\abstrakteKlassen.csprojAssemblyReference.cache
+C:\Users\rwe\source\repos\abstrakteKlassen\abstrakteKlassen\obj\Debug\abstrakteKlassen.exe
+C:\Users\rwe\source\repos\abstrakteKlassen\abstrakteKlassen\obj\Debug\abstrakteKlassen.pdb
